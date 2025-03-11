@@ -1,4 +1,4 @@
-Hi there!👋 My name is Hoàng Đức
+👋 Hi there! My name is Hoàng Đức
 =================================================================================================================================
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangducdt&show_icons=true&theme=radical)
@@ -7,8 +7,12 @@ I'm a Manufacturing Technician
 
 Although I am an electronics manufacturing technician, I also have a passion for programming. I often build my own application to simplify certain operations, or simply out of curiosity and want to try something new!
 
-* 🌍  I'm based in Hồ Chí Minh City
-* ⚡  Don't work hard - work smart
+* 🌍  I'm based in Hồ Chí Minh City
+* ✉️  You can contact me at [hoangduc.dt@hotmail.com](mailto:hoangduc.dt@hotmail.com)
+* 🚀  I'm currently working on [Saigon Hi-Tech Park](https://en.wikipedia.org/wiki/Saigon_Hi-Tech_Park)
+* 🧠  I'm learning how to apply AI to my work
+* 🤝  I'm willing to cooperate in the field of electronics/programming
+* ⚡  Don't work hard - work smart!
 
 ![](https://komarev.com/ghpvc/?username=hoangducdt&color=blueviolet)
 <a href="https://www.github.com/hoangducdt" target="_blank" rel="noreferrer"><img
