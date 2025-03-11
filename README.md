@@ -1,8 +1,9 @@
 Hi there!👋 My name is Hoàng Đức
 =================================================================================================================================
 
-Manufacturing Technician
-------------------------
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangducdt&show_icons=true&theme=radical)
+
+I'm a Manufacturing Technician
 
 Although I am an electronics manufacturing technician, I also have a passion for programming. I often build my own application to simplify certain operations, or simply out of curiosity and want to try something new!
 
@@ -25,9 +26,6 @@ src="https://img.shields.io/github/followers/hoangducdt?logo=github&style=for-th
 <p align="left"> <a href="https://discord.com/users/hoangducdt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/hoangduc.dtdl" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/hoangducdt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@hoangduc-dt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
 ### My Badges:
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangducdt&show_icons=true&theme=radical)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangducdt&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoangducdt&theme=radical&exclude={exclude})
