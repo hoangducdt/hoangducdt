@@ -71,7 +71,7 @@ Although I am an electronics manufacturing technician, I also have a passion for
 ### Support Me:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/viet-qr.png" width="250" alt="Banking"/>
-  <img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/momo-qr.png" width="250" alt="Momo"/>
-  <a href="https://www.buymeacoffee.com/hoangducdt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/buy-me-a-coffee.png" width="250" alt="Buy Me a Coffee"/></a>
+  <img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/viet-qr.png" width="280" alt="Banking"/>
+  <img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/momo-qr.png" width="280" alt="Momo"/>
+  <a href="https://www.buymeacoffee.com/hoangducdt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/buy-me-a-coffee.png" width="280" alt="Buy Me a Coffee"/></a>
 </p>
