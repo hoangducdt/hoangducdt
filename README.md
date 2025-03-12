@@ -31,9 +31,11 @@ Although I am an electronics manufacturing technician, I also have a passion for
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/mongodb-logo.png" width="36" height="36" alt="MongoDB" /></a>
   <a href="https://fivem.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/fivem-logo.png" width="36" height="36" alt="FiveM" /></a>
   <br>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/git-logo.png" width="36" height="36" alt="Git" /></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/vs-logo.png" width="36" height="36" alt="Visual Studio" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/vscode-logo.png" width="36" height="36" alt="Visual Studio Code" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/git-logo.png" width="36" height="36" alt="Git" /></a>
+  <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/notepad++-logo.png" width="36" height="36" alt="Notepad++" /></a>
+  <a href="https://www.cursor.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/cursor-logo.png" width="36" height="36" alt="Cursor AI" /></a>
   <br>
   <a href="https://www.office.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/word-logo.png" width="36" height="36" alt="Word" /></a>
   <a href="https://www.office.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/exel-logo.png" width="36" height="36" alt="Exel" /></a>
