@@ -55,7 +55,7 @@ Although I am an electronics manufacturing technician, I also have a passion for
   <a href="https://discord.com/users/hoangducdt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/discord-logo.png" width="36" height="36" alt="Discord" /></a>
   <a href="https://www.facebook.com/hoangduc.dtdl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/facebook-logo.png" width="36" height="36" alt="Faceboock" /></a>
   <a href="https://www.github.com/hoangducdt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/github-logo.png" width="36" height="36" alt="Github" /></a>
-  <a href="https://www.youtube.com/@hoangduc-dt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/youtube-logo" width="36" height="36" alt="Youtube" /></a>
+  <a href="https://www.youtube.com/@hoangduc-dt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/youtube-logo.png" width="36" height="36" alt="Youtube" /></a>
 </p>
 
 #
@@ -71,7 +71,7 @@ Although I am an electronics manufacturing technician, I also have a passion for
 ### Support Me:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/viet-qr.png" width="150" alt="Banking"/>
-  <img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/momo-qr.png" width="150" alt="Momo"/>
-  <a href="https://www.buymeacoffee.com/hoangducdt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/buy-me-a-coffee.png" width="150" alt="Buy Me a Coffee"/></a>
+  <img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/viet-qr.png" width="250" alt="Banking"/>
+  <img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/momo-qr.png" width="250" alt="Momo"/>
+  <a href="https://www.buymeacoffee.com/hoangducdt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/buy-me-a-coffee.png" width="250" alt="Buy Me a Coffee"/></a>
 </p>
