@@ -48,6 +48,7 @@ Although I am an electronics manufacturing technician, I also have a passion for
   <br>
   <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/windows-logo.png" width="36" height="36" alt="Windows" /></a>
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/linux-logo.png" width="36" height="36" alt="Linux" /></a>
+  <a href="https://vi.wikipedia.org/wiki/MacOS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/osx-logo.png" width="36" height="36" alt="OSX" /></a>
 </p>
 
 #
