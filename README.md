@@ -31,16 +31,20 @@ src="https://img.shields.io/github/followers/hoangducdt?logo=github&style=for-th
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/mysql-logo.png" width="36" height="36" alt="C#" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/mongodb-logo.png" width="36" height="36" alt="C#" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/fivem-logo.png" width="36" height="36" alt="C#" /></a>
+  <br>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/vs-logo.png" width="36" height="36" alt="C#" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/vscode-logo.png" width="36" height="36" alt="C#" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/git-logo.png" width="36" height="36" alt="C#" /></a>
+  <br>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/word-logo.png" width="36" height="36" alt="C#" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/exel-logo.png" width="36" height="36" alt="C#" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/powerpoint-logo.png" width="36" height="36" alt="C#" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/outlook-logo.png" width="36" height="36" alt="C#" /></a>
+  <br>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/photoshop-logo.png" width="36" height="36" alt="C#" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/illustrator-logo.png" width="36" height="36" alt="C#" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/premiere-logo.png" width="36" height="36" alt="C#" /></a>
+  <br>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/windows-logo.png" width="36" height="36" alt="C#" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hoangducdt/hoangducdt/main/Img/linux-logo.png" width="36" height="36" alt="C#" /></a>
 </p>
