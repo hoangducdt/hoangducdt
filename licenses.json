@@ -2,7 +2,7 @@
   "valid_licenses": [],
   "revoked_licenses": [],
   "blacklisted_hw": [],
-  "min_version": 2,
+  "min_version": "1.0",
   "updated_at": 0,
   "sig": ""
 }
