@@ -1,10 +1,11 @@
 {
   "valid_licenses": [
-    "sPfFboyD2AwnQpvlpvl4MHbZ8LX085nTOJ1Ih/WlrL8YnJjBjkzmzabl5JjvsysKc/VuQjFjumbQ7nUxEinAZA=="
+    "sPfFboyD2AwnQpvlpvl4MHbZ8LX085nTOJ1Ih/WlrL8YnJjBjkzmzabl5JjvsysKc/VuQjFjumbQ7nUxEinAZA==",
+    "a6URIy\u002BqIJMmuF7N/01oy4Xz8sEK3uc5Gav1/yXjaah9ond4CS8pGR0HIJADG3/b0Lb7Nd2TpzJbOdCsAy\u002BG7g=="
   ],
   "revoked_licenses": [],
   "blacklisted_hw": [],
   "min_version": "1.0",
-  "updated_at": 1761279344,
-  "sig": "UQrFcFxxXQ9Xt1ev6IaXD5ZBuLJOFeL3DqKfh9KeXyPd/\u002BqUQ3KQE3U2vXZprddazTgL/8HwHLR1lhW/eNNlng=="
+  "updated_at": 1761332331,
+  "sig": "xQuh56SbV\u002B/jJUtnlqvOhgIo5qOxBeHrgFTjSxth4ZsSXl8AiurVLcsduHMXrh0oJoliIkn8OP2iIs5LAgg6dA=="
 }
